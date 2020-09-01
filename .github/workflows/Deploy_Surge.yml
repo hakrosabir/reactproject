@@ -43,7 +43,7 @@ jobs:
       
       #Deploy Surge
     - name: Deploy React App to Surge
-      run: surge./build sabirreactproject.surge.sh  ${{ secrets.SURGE_TOKEN }}
+      run: surge./build reactprobootcampclass2.surge.sh  ${{ secrets.SURGE_TOKEN }}
 
 
       
