@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      I'm Sabir Hakro frontend developer using React and Grapsql.
+     <h1>Hello Sabir Hakro! </h1> 
     </div>
   );
 }
