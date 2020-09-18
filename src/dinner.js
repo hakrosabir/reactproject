@@ -6,4 +6,4 @@ function Dinner() {
 
 }
 
-export default App;
+export default Dinner;
