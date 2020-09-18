@@ -3,11 +3,11 @@ import Dinner from './dinner.js';
 
 function App() {
   return (
-    <div className="App">
-       <Dinner> </Dinner>  
-    </div>
+      <div className="App">
+         <Dinner> </Dinner>  
+      </div>
 
-);
+  );
 
 
 }
