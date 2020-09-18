@@ -4,8 +4,8 @@ import './App.css';
 
 function App() {
   return (
-      <div className="App">
-        
+              <div className="App">
+          <head><title> Dinner Dishes </title></head>
           <Dinner dishName="Sindhi Biryani" sweetdish="Custard"/>
           <Dinner dishName="Kharai" sweetdish="Jalabi"/>
           <Dinner dishName="Fish" sweetdish="Jameshiri Sharbat"/>
