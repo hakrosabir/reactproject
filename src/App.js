@@ -1,12 +1,7 @@
 import React from 'react';
-import './App.css';
 
 function App() {
-  return (
-    <div>
-     <h1>Hi Everyone! Thankyou for visiting us! </h1> 
-    </div>
-  );
+  return (<h1>Hello World from Sabir Ali Hakro! :) </h1>  );
 }
 
 export default App;
